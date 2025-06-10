@@ -23,3 +23,4 @@ This is a **Java-based console application** that simulates a basic **Shopping C
 
 ## 📂 Project Structure
 
+![image](https://github.com/user-attachments/assets/21952219-a60c-419a-bee8-99b6ebbcb153)
